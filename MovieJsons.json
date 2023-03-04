@@ -1,5 +1,18 @@
 [
   {
+    "movie_poster": "https://img.ticketnew.com/tn/movie/25938/7.jpg?7442151&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80",
+    "movie_name": "Vaathi",
+    "movie_genre": ["Action", "Drama"],
+    "hero_name": "Dhanush",
+    "heroine_name": "Rashmika Mandanna",
+    "villain_name": "Prakash Raj",
+    "language": "Tamil",
+   "synopsis": "Vaathi is an action-packed drama film that follows the story of a young man who fights against corruption and injustice in society.",
+   "director": "Karthik Subbaraj",
+    "music_director": "Santhosh Narayanan"
+  },
+  
+  {
    "movie_poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/darkknight.building.24x36_480x.progressive.jpg?v=1648745678",
    "movie_name": "The Dark Knight",
    "movie_genre": ["Action", "Crime", "Drama"],
