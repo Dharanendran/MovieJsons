@@ -1,6 +1,6 @@
 [
   {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/darkknight.building.24x36_480x.progressive.jpg?v=1648745678",
    "movie_name": "The Dark Knight",
    "movie_genre": ["Action", "Crime", "Drama"],
    "hero_name": "Christian Bale",
@@ -12,7 +12,7 @@
    "music_director": "Hans Zimmer"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
    "movie_name": "The Shawshank Redemption",
    "movie_genre": ["Drama"],
    "hero_name": "Tim Robbins",
@@ -24,7 +24,7 @@
    "music_director": "Thomas Newman"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
    "movie_name": "Titanic",
    "movie_genre": ["Romance", "Drama"],
    "hero_name": "Leonardo DiCaprio",
@@ -36,7 +36,7 @@
    "music_director": "James Horner"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg",
    "movie_name": "The Godfather",
    "movie_genre": ["Crime", "Drama"],
    "hero_name": "Marlon Brando",
@@ -48,7 +48,7 @@
    "music_director": "Nino Rota"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
    "movie_name": "Inception",
    "movie_genre": ["Action", "Sci-Fi", "Thriller"],
    "hero_name": "Leonardo DiCaprio",
@@ -60,7 +60,7 @@
    "music_director": "Hans Zimmer"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
    "movie_name": "The Matrix",
    "movie_genre": ["Action", "Sci-Fi"],
    "hero_name": "Keanu Reeves",
@@ -72,7 +72,7 @@
    "music_director": "Don Davis"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
    "movie_name": "Forrest Gump",
    "movie_genre": ["Drama", "Romance"],
    "hero_name": "Tom Hanks",
@@ -84,8 +84,8 @@
    "music_director": "Alan Silvestri"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
-   "movie_name": "Interstellar",
+   "movie_poster": "",
+   "movie_name": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
    "movie_genre": ["Sci-Fi", "Adventure", "Drama"],
    "hero_name": "Matthew McConaughey",
    "heroine_name": "Anne Hathaway",
@@ -96,11 +96,11 @@
    "music_director": "Hans Zimmer"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
    "movie_name": "The Dark Knight",
    "movie_genre": ["Action", "Crime", "Drama"],
    "hero_name": "Christian Bale",
-   "heroine_name": "",
+   "heroine_name": "unknown",
    "villain_name": "Joker",
    "language": "English",
    "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
@@ -108,19 +108,19 @@
    "music_director": "Hans Zimmer"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
    "movie_name": "Pulp Fiction",
    "movie_genre": ["Crime", "Drama"],
    "hero_name": "John Travolta",
    "heroine_name": "Uma Thurman",
-   "villain_name": "",
+   "villain_name": "unknown",
    "language": "English",
    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
    "director": "Quentin Tarantino",
    "music_director": "Various Artists"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
    "movie_name": "The Lion King",
    "movie_genre": ["Animation", "Adventure", "Drama"],
    "hero_name": "Simba",
@@ -132,7 +132,7 @@
    "music_director": "Hans Zimmer"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/JAWS_Movie_poster.jpg",
    "movie_name": "Jaws",
    "movie_genre": ["Adventure", "Drama", "Thriller"],
    "hero_name": "Roy Scheider",
@@ -144,7 +144,7 @@
    "music_director": "John Williams"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Visaranai_film_release_poster.jpg",
    "movie_name": "Visaranai",
    "movie_genre": ["Thriller", "Drama"],
    "hero_name": "Dinesh Ravi",
@@ -156,7 +156,7 @@
    "music_director": "G. V. Prakash Kumar"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Kabali_poster.jpg",
    "movie_name": "Kabali",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Rajinikanth",
@@ -168,7 +168,7 @@
    "music_director": "Santhosh Narayanan"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mersal_film_poster.jpg",
    "movie_name": "Mersal",
    "movie_genre": ["Action", "Thriller"],
    "hero_name": "Vijay",
@@ -180,7 +180,7 @@
    "music_director": "A. R. Rahman"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Kaala_Poster.jpg",
    "movie_name": "Kaala",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Rajinikanth",
@@ -192,7 +192,7 @@
    "music_director": "Santhosh Narayanan"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/f/f1/Thani_Oruvan.jpg",
    "movie_name": "Thani Oruvan",
    "movie_genre": ["Action", "Thriller"],
    "hero_name": "Jayam Ravi",
@@ -204,7 +204,7 @@
    "music_director": "Hiphop Tamizha"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iru_Mugan.jpg",
    "movie_name": "Iru Mugan",
    "movie_genre": ["Action", "Thriller"],
    "hero_name": "Vikram",
@@ -216,7 +216,7 @@
    "music_director": "Harris Jayaraj"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTANLW6o_XKmdd3zyIgBRb0OyEeqwB54QWJ7ZgJteucuSIZSEZE",
    "movie_name": "Baahubali: The Beginning",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Prabhas",
@@ -228,7 +228,7 @@
    "music_director": "M. M. Keeravani"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/Vikram_Vedha_%282022%29_poster.jpg",
    "movie_name": "Vikram Vedha",
    "movie_genre": ["Action", "Thriller"],
    "hero_name": "R. Madhavan",
@@ -240,7 +240,7 @@
    "music_director": "Sam C. S."
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Kabali_poster.jpg",
    "movie_name": "Kabali",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Rajinikanth",
@@ -252,7 +252,7 @@
    "music_director": "Santhosh Narayanan"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlQa1dzx3ZxjLQJruW4YoyuAybmjnL5_R6uCrRVdkycwQ8XWCf",
    "movie_name": "Anniyan",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Vikram",
@@ -264,7 +264,7 @@
    "music_director": "Harris Jayaraj"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4CqKzOUHjhp0S1yuM90s1FgEAUub1IdLzc7xneF1miJVdA7o
    "movie_name": "Kanchana",
    "movie_genre": ["Comedy", "Horror"],
    "hero_name": "Raghava Lawrence",
@@ -276,7 +276,7 @@
    "music_director": "Thaman S"
 },
 {
-   "movie_poster": "https://example.com/movie_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/9/90/Kaththi_poster.jpg",
    "movie_name": "Kaththi",
    "movie_genre": ["Action", "Drama"],
    "hero_name": "Vijay",
