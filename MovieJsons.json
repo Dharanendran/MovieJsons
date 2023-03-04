@@ -84,8 +84,8 @@
    "music_director": "Alan Silvestri"
 },
 {
-   "movie_poster": "",
-   "movie_name": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+   "movie_poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+   "movie_name": "Interstellar",
    "movie_genre": ["Sci-Fi", "Adventure", "Drama"],
    "hero_name": "Matthew McConaughey",
    "heroine_name": "Anne Hathaway",
