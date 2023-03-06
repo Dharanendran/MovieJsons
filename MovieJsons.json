@@ -1,5 +1,17 @@
 [
   {
+    "movie_poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToThuQM4JHCDwhV99solUZp2VvpX5tw8lxI2SyL5Z-l6qyhsjq",
+    "movie_name": "Tu Jhoothi Main Makkaar",
+    "movie_genre": ["Comedy", "Drama"],
+    "hero_name": "Ranbir kapoor",
+    "heroine_name": "Aiah Bhat",
+    "villain_name": "Prakash Raj",
+    "language": "Hindi",
+   "synopsis": "Vaathi is an action-packed drama film that follows the story of a young man who fights against corruption and injustice in society.",
+   "director": "Karthik Subbaraj",
+    "music_director": "Santhosh Narayanan"
+  },
+  {
     "movie_poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
     "movie_name": "Pathaan",
     "movie_genre": ["Action", "Drama"],
